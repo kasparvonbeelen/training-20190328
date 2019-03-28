@@ -1,5 +1,5 @@
 # training-20190328
-Agile Training 28-03-2019
+Agile Training 27-03-2019
 
 Let's collaborate now!
 
